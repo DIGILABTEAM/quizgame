@@ -79,7 +79,7 @@ body .center a
 	text-decoration: none;
 	font-family: QuickSand, sans-serif;
 	color: white;
-	background-color: #c4161c;
+	background-color: #53b441;
 }
 .go
 {
@@ -151,7 +151,7 @@ body .center a
 	font-weight: 600;
 	width: 270px;
 	float: left;
-	color: #c4161c;
+	color: #53b441;
 }
 .navbar i
 {
@@ -250,12 +250,12 @@ body .center a
 .social .fa-twitter-square
 {
 	margin-right: 0px;
-	color: #2d2b76;
+	color: #135fb7;
 	cursor: pointer;
 }
 .social .fa-facebook-square
 {
-	color: #2d2b76;
+	color: #135fb7;
 	cursor: pointer;
 }
 .social .fa-google-plus-square
@@ -279,13 +279,13 @@ body .center a
 -------------------------------------------------------------*/
 #welcome
 {
-	background-color: #c4161c;
+	background-color: #53b441;
 }
 /* .userWelcome
 {
 	font-family: Poppins;
 	color: white;
-	background-color: #c4161c;
+	background-color: #53b441;
 	padding-top: 20px;
 	padding-bottom: 20px;	
 } */
@@ -326,7 +326,7 @@ body .center a
 }
 .start
 {
-	background-color: #2d2b76;
+	background-color: #135fb7;
 	border-radius: 20px;
 	font-size: 45px;
 	padding: 10px 10px;
@@ -499,7 +499,7 @@ body .center a
 	padding: 20px;
 	margin: 20px;
 	border-radius: 25px;
-	border: 3px solid #2d2b76;
+	border: 3px solid #135fb7;
 	cursor: pointer;
 
 	display: none;
@@ -525,7 +525,7 @@ body .center a
 }
 .correct
 {
-	background-color: #c4161c !important;
+	background-color: #53b441 !important;
 	color: white !important;
 	font-weight: 600;
 }
@@ -556,7 +556,7 @@ body .center a
 	margin-top: 20px;
 	margin-bottom: 25px;
 	border-radius: 20px;
-	border: 1px solid #2d2b76;
+	border: 1px solid #135fb7;
 	box-shadow: 0px 10px 30px #5A5A5A;
 	-webkit-box-shadow: 0px 10px 30px #5A5A5A;
 	-moz-box-shadow: 0px 10px 30px #5A5A5A;
@@ -567,7 +567,7 @@ body .center a
 	position: relative;
 	height: 80px;
 	font-weight: 600;
-	background-color: #c4161c;
+	background-color: #53b441;
 	border-radius: 20px;
 	/* box-shadow: 0px 5px 10px #5A5A5A;
 	-webkit-box-shadow: 0px 5px 10px #5A5A5A;
@@ -608,7 +608,7 @@ body .center a
 {
 	width: 100vw;
 	height: 250vh;
-	background-color: #2d2b76;
+	background-color: #135fb7;
 }
 /*-----------------------------------------------------------*/
 
@@ -653,7 +653,7 @@ body .center a
 .okButton
 {
 	font-size: 20px;
-	background-color: #c4161c;
+	background-color: #53b441;
 	padding: 10px;	
 	color: white;
 	text-decoration: none;
@@ -708,11 +708,11 @@ body .center a
 /*------------------Results Page Styling-------------------------*/
 #results
 {
-	background-color: #2d2b76;
+	background-color: #135fb7;
 }
 /* .percentage
 {
-	background-color: #c4161c;
+	background-color: #53b441;
 	height: 400px;
 } */
 .percentBar
@@ -748,7 +748,7 @@ body .center a
 {
 	font-weight: 600;
 	text-align: center;
-	color: #c4161c;
+	color: #53b441;
 	font-size: 40px;
 	margin-bottom: 100px;
 	margin-top: 50px;
@@ -757,7 +757,7 @@ body .center a
 {
 	font-weight: 600;
 	text-align: center;
-	color: #c4161c;
+	color: #53b441;
 	font-size: 40px;
 	margin-bottom: 100px;
 	margin-top: 50px;
@@ -822,11 +822,11 @@ body .center a
 /*-------------------Statistics Page Styling---------------------*/
 #statistics
 {
-	background-color: #c4161c;
+	background-color: #53b441;
 }
 .sPercentage
 {
-	background-color: #c4161c;
+	background-color: #53b441;
 	height: 400px;
 }
 .sPercentBar
@@ -852,7 +852,7 @@ body .center a
 .categoryPercentage
 {
 	padding: 20px;
-	background-color: #c4161c;
+	background-color: #53b441;
 	box-shadow: 0px -5px 40px #5A5A5A;
 	-webkit-box-shadow: 0px -5px 40px #5A5A5A;
 	-moz-box-shadow: 0px -5px 40px #5A5A5A;
